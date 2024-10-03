@@ -6,6 +6,6 @@ This repository contains a take on the classic table-tennis themed game, [Pong](
 
 <img src="assets/img2.jpg" alt="img" style="width: 100%;" />
 
-<img src="assets/img3.jpg" alt="img" style="width: 100%;" />
+<img src="assets/img3.png" alt="img" style="width: 100%;" />
 
 <img src="assets/img4.jpg" alt="img" style="width: 100%;" />
